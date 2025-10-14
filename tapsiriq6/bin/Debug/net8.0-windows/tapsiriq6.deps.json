@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tapsiriq6/1.0.0": {
+        "runtime": {
+          "tapsiriq6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tapsiriq6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
