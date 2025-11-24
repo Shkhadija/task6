@@ -1,0 +1,17 @@
+D:\C# lesson\Restoruant\Restoruant\bin\Debug\net8.0-windows\Restoruant.exe
+D:\C# lesson\Restoruant\Restoruant\bin\Debug\net8.0-windows\Restoruant.deps.json
+D:\C# lesson\Restoruant\Restoruant\bin\Debug\net8.0-windows\Restoruant.runtimeconfig.json
+D:\C# lesson\Restoruant\Restoruant\bin\Debug\net8.0-windows\Restoruant.dll
+D:\C# lesson\Restoruant\Restoruant\bin\Debug\net8.0-windows\Restoruant.pdb
+D:\C# lesson\Restoruant\Restoruant\obj\Debug\net8.0-windows\Restoruant.Form1.resources
+D:\C# lesson\Restoruant\Restoruant\obj\Debug\net8.0-windows\Restoruant.csproj.GenerateResource.cache
+D:\C# lesson\Restoruant\Restoruant\obj\Debug\net8.0-windows\Restoruant.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\Restoruant\Restoruant\obj\Debug\net8.0-windows\Restoruant.AssemblyInfoInputs.cache
+D:\C# lesson\Restoruant\Restoruant\obj\Debug\net8.0-windows\Restoruant.AssemblyInfo.cs
+D:\C# lesson\Restoruant\Restoruant\obj\Debug\net8.0-windows\Restoruant.csproj.CoreCompileInputs.cache
+D:\C# lesson\Restoruant\Restoruant\obj\Debug\net8.0-windows\Restoruant.dll
+D:\C# lesson\Restoruant\Restoruant\obj\Debug\net8.0-windows\refint\Restoruant.dll
+D:\C# lesson\Restoruant\Restoruant\obj\Debug\net8.0-windows\Restoruant.pdb
+D:\C# lesson\Restoruant\Restoruant\obj\Debug\net8.0-windows\Restoruant.genruntimeconfig.cache
+D:\C# lesson\Restoruant\Restoruant\obj\Debug\net8.0-windows\ref\Restoruant.dll
+D:\C# lesson\Restoruant\Restoruant\obj\Debug\net8.0-windows\Restoruant.Properties.Resources.resources
